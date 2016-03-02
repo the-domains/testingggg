@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Testingggg]]></title>
+        <description><![CDATA[Testingggg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 07:09:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bad behaviour]]></title>
+            <description><![CDATA[<article><h1>Bad behaviour</h1><p>Oddly enough, it isn't the truly terrible employees who cause the real problems. Whether clearly incompetent or unbelievably lazy, they're easy to spot. So although it's never fun to fire anyone, at least you know there's a problem - and you can quickly let the person go and move on.</p><img src="http://static2.businessinsider.com/image/56ce44166e97c630008b9743-1280-960/frank30-rock.jpg"></article>]]></description>
+            <link>undefinedbad-behaviour/index.html</link>
+            <guid isPermaLink="false">e3c5aac4-b44f-4a8f-9475-7f3ec1194b6b</guid>
+            <pubDate>Wed, 02 Mar 2016 07:07:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
