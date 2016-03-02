@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-02T07:07:40.133Z'
+datePublished: '2016-03-02T07:08:26.503Z'
 publisher:
   domain: ''
   name: ''
 title: Bad behaviour
-dateModified: '2016-03-02T07:07:20.987Z'
+dateModified: '2016-03-02T07:08:10.150Z'
 sourcePath: _posts/2016-03-02-bad-behaviour.md
 published: true
 inFeed: true
