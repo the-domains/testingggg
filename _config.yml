@@ -1,14 +1,26 @@
-layout_spectrum: 0.2455197
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4569893
 color:
   saturation: 0.8577556
-  lightness: 0.8648864
   brandStrength: 0.07772574
+  rhythmicContrast: 0.2408937
   brandColors:
     - '#FFFFFF'
     - '#0D0C0C'
     - '#7F766F'
     - '#CFD0CF'
     - '#423930'
-  rhythmicContrast: 0.2408937
-typography_spectrum: 0.4569893
+  lightness: 0.8648864
+layout_spectrum: 0
 name: Testingggg
